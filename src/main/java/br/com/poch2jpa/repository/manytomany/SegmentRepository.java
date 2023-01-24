@@ -1,6 +1,6 @@
-package br.com.poch2jpa.repository;
+package br.com.poch2jpa.repository.manytomany;
 
-import br.com.poch2jpa.model.Segment;
+import br.com.poch2jpa.model.manytomany.Segment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

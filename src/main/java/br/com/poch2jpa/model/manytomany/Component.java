@@ -1,4 +1,4 @@
-package br.com.poch2jpa.model;
+package br.com.poch2jpa.model.manytomany;
 
 import lombok.Getter;
 import lombok.Setter;

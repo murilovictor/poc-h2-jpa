@@ -1,7 +1,7 @@
-package br.com.poch2jpa.controller;
+package br.com.poch2jpa.controller.manytomany;
 
-import br.com.poch2jpa.model.Segment;
-import br.com.poch2jpa.repository.SegmentRepository;
+import br.com.poch2jpa.model.manytomany.Segment;
+import br.com.poch2jpa.repository.manytomany.SegmentRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
